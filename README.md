@@ -1,9 +1,6 @@
 # Hi👋
 
 # 💫 About Me:
-<br> 14 y.o coder
-<br> Vibe code❤️
-<br> JAVA AND PYTHON ❤️
 
 # 📞 Contact Me:
 <br> телега: @korefai
